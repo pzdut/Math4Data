@@ -8,7 +8,7 @@ Racionales o Irracionales. Responder con la categoría más restrictiva, ej: 1 -
     d- -1/4
     e- 10.0
     f- 2*e
-    g- -123.0004
+    g- -123.0004 r:racional 
 
 
 **2)** Calcula los siguientes porcentajes y y redondea la respuesta a su PRIMER número decimal
